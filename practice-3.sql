@@ -13,3 +13,4 @@
 -- | Beverly                |
 
 
+select distinct(neighborhood) from listings;
